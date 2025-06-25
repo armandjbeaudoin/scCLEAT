@@ -1,3 +1,3 @@
 # scCLEAT
 
-Some supercollider scripts for use with the CLEAT system at Elastic Arts
+Some supercollider scripts for use with the CLEAT system at Elastic Arts in Chicago
